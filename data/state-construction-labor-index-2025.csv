@@ -1,0 +1,52 @@
+state,state_abbr,construction_extraction_annual_mean_wage_usd,wage_ratio_to_us,labor_weighted_factor,occupation_code,reference_period,source,source_url
+Alabama,AL,51630,0.79,0.895,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Alaska,AK,81250,1.243,1.122,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Arizona,AZ,60040,0.919,0.959,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Arkansas,AR,48650,0.744,0.872,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+California,CA,78280,1.198,1.099,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Colorado,CO,65880,1.008,1.004,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Connecticut,CT,73050,1.118,1.059,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Delaware,DE,62660,0.959,0.979,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+District of Columbia,DC,74160,1.135,1.067,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Florida,FL,55570,0.85,0.925,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Georgia,GA,56400,0.863,0.931,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Hawaii,HI,84200,1.288,1.144,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Idaho,ID,58890,0.901,0.951,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Illinois,IL,81670,1.25,1.125,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Indiana,IN,66150,1.012,1.006,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Iowa,IA,62070,0.95,0.975,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Kansas,KS,60090,0.919,0.96,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Kentucky,KY,57840,0.885,0.942,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Louisiana,LA,54940,0.841,0.92,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Maine,ME,62660,0.959,0.979,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Maryland,MD,65180,0.997,0.999,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Massachusetts,MA,81330,1.244,1.122,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Michigan,MI,65130,0.996,0.998,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Minnesota,MN,75150,1.15,1.075,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Mississippi,MS,51200,0.783,0.892,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Missouri,MO,67580,1.034,1.017,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Montana,MT,63680,0.974,0.987,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Nebraska,NE,58440,0.894,0.947,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Nevada,NV,68570,1.049,1.025,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+New Hampshire,NH,64230,0.983,0.991,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+New Jersey,NJ,80460,1.231,1.116,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+New Mexico,NM,56240,0.86,0.93,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+New York,NY,76640,1.173,1.086,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+North Carolina,NC,54940,0.841,0.92,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+North Dakota,ND,66820,1.022,1.011,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Ohio,OH,65900,1.008,1.004,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Oklahoma,OK,55120,0.843,0.922,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Oregon,OR,75990,1.163,1.081,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Pennsylvania,PA,66410,1.016,1.008,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Rhode Island,RI,70030,1.071,1.036,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+South Carolina,SC,55410,0.848,0.924,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+South Dakota,SD,54930,0.84,0.92,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Tennessee,TN,56510,0.865,0.932,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Texas,TX,55200,0.845,0.922,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Utah,UT,59210,0.906,0.953,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Vermont,VT,62030,0.949,0.975,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Virginia,VA,59630,0.912,0.956,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Washington,WA,82360,1.26,1.13,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+West Virginia,WV,59660,0.913,0.956,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Wisconsin,WI,69810,1.068,1.034,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
+Wyoming,WY,64200,0.982,0.991,47-0000,May 2025,"U.S. Bureau of Labor Statistics, OEWS",https://www.bls.gov/oes/current/oes470000.htm
