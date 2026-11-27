@@ -1,6 +1,8 @@
 # US Residential Remodeling Cost Benchmarks & State Construction Labor Index (2026)
 
-Open, reproducible datasets published by **[My Remodel Cost](https://myremodelcost.com/)** for researchers, journalists, housing analysts, and homeowners.
+[![DOI](https://zenodo.org/badge/github/1474458285.svg)](https://doi.org/10.5281/zenodo.24590261) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-1d3b53.svg)](LICENSE) [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Open_Dataset-20BEFF.svg)](https://www.kaggle.com/datasets/andrewll25/us-remodeling-cost-benchmarks-and-labor-index-2026)
+
+Open, reproducible datasets published by **[My Remodel Cost](https://myremodelcost.com/)** for researchers, journalists, housing analysts, and homeowners. Also archived on **[Zenodo (`10.5281/zenodo.24590261`)](https://doi.org/10.5281/zenodo.24590261)** and mirrored on **[Kaggle](https://www.kaggle.com/datasets/andrewll25/us-remodeling-cost-benchmarks-and-labor-index-2026)**.
 
 ![Where Remodeling Labor Costs Most — and Least — in the U.S. (May 2025 BLS OEWS)](charts/us-construction-labor-index-2025.png)
 
@@ -32,7 +34,7 @@ Open, reproducible datasets published by **[My Remodel Cost](https://myremodelco
 
 ## Suggested Citation
 
-> My Remodel Cost. *US Residential Remodeling Cost Benchmarks & May 2025 State Construction Labor Index.* Updated November 2026. https://myremodelcost.com/sources/
+> My Remodel Cost Editorial Team. (2026). *US Residential Remodeling Cost Benchmarks & State Construction Labor Index (2026)* (Version v2026.11) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.24590262 (All versions: https://doi.org/10.5281/zenodo.24590261 · Source register: https://myremodelcost.com/sources/)
 
 ## Verification & Corrections
 
