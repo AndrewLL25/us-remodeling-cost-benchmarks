@@ -1,0 +1,427 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="1690" viewBox="0 0 1320 1690">
+<defs>
+  <style>
+    .serif { font-family: Georgia, "Times New Roman", serif; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+    .mono { font-family: "SFMono-Regular", Menlo, Consolas, monospace; }
+  </style>
+</defs>
+<rect width="1320" height="1690" fill="#faf9f5"/>
+<rect x="64" y="34" width="1192" height="2.5" fill="#191918"/>
+<text x="64" y="60" class="sans" font-size="11.5" font-weight="600" letter-spacing="1.6" fill="#1d3b53">U.S. BUREAU OF LABOR STATISTICS · OEWS MAY 2025 · SOC 47-0000</text>
+<text x="1256" y="60" text-anchor="end" class="sans" font-size="11.5" font-weight="600" letter-spacing="1.2" fill="#8a867d">OPEN DATASET · 50 STATES + D.C.</text>
+<text x="64" y="102" class="serif" font-size="33" font-weight="700" fill="#191918">Where Remodeling Labor Costs Most — and Least — in the U.S.</text>
+<text x="64" y="131" class="sans" font-size="15" fill="#5c5a54">Annual mean wage for Construction &amp; Extraction trades vs. the $65,360 U.S. baseline, and the resulting 50%-labor remodel factor</text>
+<rect x="64" y="152" width="1192" height="74" fill="#f2f0e8"/>
+<line x1="64" y1="152" x2="1256" y2="152" stroke="#191918" stroke-width="1.2"/>
+<line x1="64" y1="226" x2="1256" y2="226" stroke="#d8d4c8" stroke-width="1"/>
+<text x="82" y="173" class="sans" font-size="10.5" font-weight="700" letter-spacing="1.2" fill="#8a867d">HIGHEST STATE</text>
+<text x="82" y="197" class="serif" font-size="20" font-weight="700" fill="#1d3b53">Hawaii · $84,200</text>
+<text x="82" y="215" class="sans" font-size="11.5" fill="#5c5a54">+28.8% vs. U.S. · 1.144× factor</text>
+<line x1="362" y1="164" x2="362" y2="214" stroke="#d8d4c8" stroke-width="1"/>
+<text x="380" y="173" class="sans" font-size="10.5" font-weight="700" letter-spacing="1.2" fill="#8a867d">U.S. NATIONAL BASELINE</text>
+<text x="380" y="197" class="serif" font-size="20" font-weight="700" fill="#191918">$65,360 / yr</text>
+<text x="380" y="215" class="sans" font-size="11.5" fill="#5c5a54">1.000× baseline · May 2025 OEWS</text>
+<line x1="660" y1="164" x2="660" y2="214" stroke="#d8d4c8" stroke-width="1"/>
+<text x="678" y="173" class="sans" font-size="10.5" font-weight="700" letter-spacing="1.2" fill="#8a867d">LOWEST STATE</text>
+<text x="678" y="197" class="serif" font-size="20" font-weight="700" fill="#7c4e35">Arkansas · $48,650</text>
+<text x="678" y="215" class="sans" font-size="11.5" fill="#5c5a54">−25.6% vs. U.S. · 0.872× factor</text>
+<line x1="958" y1="164" x2="958" y2="214" stroke="#d8d4c8" stroke-width="1"/>
+<text x="976" y="173" class="sans" font-size="10.5" font-weight="700" letter-spacing="1.2" fill="#8a867d">HIGH-TO-LOW SPREAD</text>
+<text x="976" y="197" class="serif" font-size="20" font-weight="700" fill="#191918">+$35,550 / yr</text>
+<text x="976" y="215" class="sans" font-size="11.5" fill="#5c5a54">+73% wage gap · 31% remodel swing</text>
+<text x="86" y="258" text-anchor="end" class="sans" font-size="10.5" font-weight="700" letter-spacing="0.8" fill="#8a867d">RK</text>
+<text x="102" y="258" class="sans" font-size="10.5" font-weight="700" letter-spacing="0.8" fill="#8a867d">STATE / JURISDICTION</text>
+<text x="592" y="246" text-anchor="middle" class="sans" font-size="10.5" font-weight="700" letter-spacing="0.8" fill="#191918">WAGE VARIANCE VS. U.S. MEAN ($65,360)</text>
+<text x="1020" y="258" text-anchor="end" class="sans" font-size="10.5" font-weight="700" letter-spacing="0.8" fill="#8a867d">MEAN WAGE</text>
+<text x="1126" y="258" text-anchor="end" class="sans" font-size="10.5" font-weight="700" letter-spacing="0.8" fill="#8a867d">VS. U.S.</text>
+<text x="1256" y="258" text-anchor="end" class="sans" font-size="10.5" font-weight="700" letter-spacing="0.8" fill="#8a867d">REMODEL FACTOR</text>
+<text x="286" y="266" text-anchor="middle" class="mono" font-size="10" font-weight="500" fill="#8a867d">−30%</text>
+<line x1="286" y1="282" x2="286" y2="1514" stroke="#e8e4da" stroke-width="1" stroke-dasharray="2,3"/>
+<text x="388" y="266" text-anchor="middle" class="mono" font-size="10" font-weight="500" fill="#8a867d">−20%</text>
+<line x1="388" y1="282" x2="388" y2="1514" stroke="#e8e4da" stroke-width="1" stroke-dasharray="2,3"/>
+<text x="490" y="266" text-anchor="middle" class="mono" font-size="10" font-weight="500" fill="#8a867d">−10%</text>
+<line x1="490" y1="282" x2="490" y2="1514" stroke="#e8e4da" stroke-width="1" stroke-dasharray="2,3"/>
+<text x="592" y="266" text-anchor="middle" class="mono" font-size="10" font-weight="700" fill="#191918">0% ($65.4k)</text>
+<text x="694" y="266" text-anchor="middle" class="mono" font-size="10" font-weight="500" fill="#8a867d">+10%</text>
+<line x1="694" y1="282" x2="694" y2="1514" stroke="#e8e4da" stroke-width="1" stroke-dasharray="2,3"/>
+<text x="796" y="266" text-anchor="middle" class="mono" font-size="10" font-weight="500" fill="#8a867d">+20%</text>
+<line x1="796" y1="282" x2="796" y2="1514" stroke="#e8e4da" stroke-width="1" stroke-dasharray="2,3"/>
+<text x="898" y="266" text-anchor="middle" class="mono" font-size="10" font-weight="500" fill="#8a867d">+30%</text>
+<line x1="898" y1="282" x2="898" y2="1514" stroke="#e8e4da" stroke-width="1" stroke-dasharray="2,3"/>
+<line x1="64" y1="282" x2="1256" y2="282" stroke="#d8d4c8" stroke-width="1"/>
+<rect x="64" y="285" width="1192" height="24" fill="#f2f0e8" opacity="0.85"/>
+<text x="86" y="301" text-anchor="end" class="mono" font-size="11" fill="#191918">1</text>
+<text x="102" y="301" class="sans" font-size="12.5" font-weight="700" fill="#191918">Hawaii</text>
+<rect x="592.0" y="291" width="294.0" height="12" rx="1" fill="#12293b"/>
+<text x="1020" y="301" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#191918">$84,200</text>
+<text x="1126" y="301" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#1d3b53">+28.8%</text>
+<text x="1256" y="301" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#191918">1.144×</text>
+<text x="86" y="325" text-anchor="end" class="mono" font-size="11" fill="#8a867d">2</text>
+<text x="102" y="325" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Washington</text>
+<rect x="592.0" y="315" width="265.3" height="12" rx="1" fill="#1d3b53"/>
+<text x="1020" y="325" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$82,360</text>
+<text x="1126" y="325" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#1d3b53">+26.0%</text>
+<text x="1256" y="325" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">1.130×</text>
+<text x="86" y="349" text-anchor="end" class="mono" font-size="11" fill="#8a867d">3</text>
+<text x="102" y="349" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Illinois</text>
+<rect x="592.0" y="339" width="254.5" height="12" rx="1" fill="#1d3b53"/>
+<text x="1020" y="349" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$81,670</text>
+<text x="1126" y="349" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#1d3b53">+25.0%</text>
+<text x="1256" y="349" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">1.125×</text>
+<text x="86" y="373" text-anchor="end" class="mono" font-size="11" fill="#8a867d">4</text>
+<text x="102" y="373" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Massachusetts</text>
+<rect x="592.0" y="363" width="249.2" height="12" rx="1" fill="#1d3b53"/>
+<text x="1020" y="373" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$81,330</text>
+<text x="1126" y="373" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#1d3b53">+24.4%</text>
+<text x="1256" y="373" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">1.122×</text>
+<line x1="64" y1="405" x2="1256" y2="405" stroke="#e8e4da" stroke-width="0.8"/>
+<text x="86" y="397" text-anchor="end" class="mono" font-size="11" fill="#8a867d">5</text>
+<text x="102" y="397" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Alaska</text>
+<rect x="592.0" y="387" width="248.0" height="12" rx="1" fill="#1d3b53"/>
+<text x="1020" y="397" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$81,250</text>
+<text x="1126" y="397" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#1d3b53">+24.3%</text>
+<text x="1256" y="397" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">1.122×</text>
+<text x="86" y="421" text-anchor="end" class="mono" font-size="11" fill="#8a867d">6</text>
+<text x="102" y="421" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">New Jersey</text>
+<rect x="592.0" y="411" width="235.6" height="12" rx="1" fill="#1d3b53"/>
+<text x="1020" y="421" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$80,460</text>
+<text x="1126" y="421" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#1d3b53">+23.1%</text>
+<text x="1256" y="421" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">1.116×</text>
+<rect x="64" y="429" width="1192" height="24" fill="#f2f0e8" opacity="0.85"/>
+<text x="86" y="445" text-anchor="end" class="mono" font-size="11" fill="#191918">7</text>
+<text x="102" y="445" class="sans" font-size="12.5" font-weight="700" fill="#191918">California</text>
+<rect x="592.0" y="435" width="201.6" height="12" rx="1" fill="#12293b"/>
+<text x="1020" y="445" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#191918">$78,280</text>
+<text x="1126" y="445" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#1d3b53">+19.8%</text>
+<text x="1256" y="445" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#191918">1.099×</text>
+<rect x="64" y="453" width="1192" height="24" fill="#f2f0e8" opacity="0.85"/>
+<text x="86" y="469" text-anchor="end" class="mono" font-size="11" fill="#191918">8</text>
+<text x="102" y="469" class="sans" font-size="12.5" font-weight="700" fill="#191918">New York</text>
+<rect x="592.0" y="459" width="176.0" height="12" rx="1" fill="#12293b"/>
+<text x="1020" y="469" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#191918">$76,640</text>
+<text x="1126" y="469" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#1d3b53">+17.3%</text>
+<text x="1256" y="469" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#191918">1.086×</text>
+<text x="86" y="493" text-anchor="end" class="mono" font-size="11" fill="#8a867d">9</text>
+<text x="102" y="493" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Oregon</text>
+<rect x="592.0" y="483" width="165.9" height="12" rx="1" fill="#1d3b53"/>
+<text x="1020" y="493" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$75,990</text>
+<text x="1126" y="493" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#1d3b53">+16.3%</text>
+<text x="1256" y="493" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">1.081×</text>
+<line x1="64" y1="525" x2="1256" y2="525" stroke="#e8e4da" stroke-width="0.8"/>
+<text x="86" y="517" text-anchor="end" class="mono" font-size="11" fill="#8a867d">10</text>
+<text x="102" y="517" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Minnesota</text>
+<rect x="592.0" y="507" width="152.8" height="12" rx="1" fill="#1d3b53"/>
+<text x="1020" y="517" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$75,150</text>
+<text x="1126" y="517" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#1d3b53">+15.0%</text>
+<text x="1256" y="517" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">1.075×</text>
+<text x="86" y="541" text-anchor="end" class="mono" font-size="11" fill="#8a867d">11</text>
+<text x="102" y="541" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">District of Columbia</text>
+<rect x="592.0" y="531" width="137.3" height="12" rx="1" fill="#1d3b53"/>
+<text x="1020" y="541" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$74,160</text>
+<text x="1126" y="541" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#1d3b53">+13.5%</text>
+<text x="1256" y="541" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">1.067×</text>
+<text x="86" y="565" text-anchor="end" class="mono" font-size="11" fill="#8a867d">12</text>
+<text x="102" y="565" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Connecticut</text>
+<rect x="592.0" y="555" width="120.0" height="12" rx="1" fill="#1d3b53"/>
+<text x="1020" y="565" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$73,050</text>
+<text x="1126" y="565" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#1d3b53">+11.8%</text>
+<text x="1256" y="565" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">1.059×</text>
+<text x="86" y="589" text-anchor="end" class="mono" font-size="11" fill="#8a867d">13</text>
+<text x="102" y="589" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Rhode Island</text>
+<rect x="592.0" y="579" width="72.9" height="12" rx="1" fill="#1d3b53"/>
+<text x="1020" y="589" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$70,030</text>
+<text x="1126" y="589" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#1d3b53">+7.1%</text>
+<text x="1256" y="589" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">1.036×</text>
+<text x="86" y="613" text-anchor="end" class="mono" font-size="11" fill="#8a867d">14</text>
+<text x="102" y="613" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Wisconsin</text>
+<rect x="592.0" y="603" width="69.4" height="12" rx="1" fill="#1d3b53"/>
+<text x="1020" y="613" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$69,810</text>
+<text x="1126" y="613" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#1d3b53">+6.8%</text>
+<text x="1256" y="613" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">1.034×</text>
+<line x1="64" y1="645" x2="1256" y2="645" stroke="#e8e4da" stroke-width="0.8"/>
+<text x="86" y="637" text-anchor="end" class="mono" font-size="11" fill="#8a867d">15</text>
+<text x="102" y="637" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Nevada</text>
+<rect x="592.0" y="627" width="50.1" height="12" rx="1" fill="#1d3b53"/>
+<text x="1020" y="637" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$68,570</text>
+<text x="1126" y="637" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#1d3b53">+4.9%</text>
+<text x="1256" y="637" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">1.025×</text>
+<text x="86" y="661" text-anchor="end" class="mono" font-size="11" fill="#8a867d">16</text>
+<text x="102" y="661" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Missouri</text>
+<rect x="592.0" y="651" width="34.6" height="12" rx="1" fill="#1d3b53"/>
+<text x="1020" y="661" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$67,580</text>
+<text x="1126" y="661" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#1d3b53">+3.4%</text>
+<text x="1256" y="661" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">1.017×</text>
+<text x="86" y="685" text-anchor="end" class="mono" font-size="11" fill="#8a867d">17</text>
+<text x="102" y="685" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">North Dakota</text>
+<rect x="592.0" y="675" width="22.8" height="12" rx="1" fill="#1d3b53"/>
+<text x="1020" y="685" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$66,820</text>
+<text x="1126" y="685" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#1d3b53">+2.2%</text>
+<text x="1256" y="685" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">1.011×</text>
+<text x="86" y="709" text-anchor="end" class="mono" font-size="11" fill="#8a867d">18</text>
+<text x="102" y="709" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Pennsylvania</text>
+<rect x="592.0" y="699" width="16.4" height="12" rx="1" fill="#1d3b53"/>
+<text x="1020" y="709" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$66,410</text>
+<text x="1126" y="709" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#1d3b53">+1.6%</text>
+<text x="1256" y="709" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">1.008×</text>
+<text x="86" y="733" text-anchor="end" class="mono" font-size="11" fill="#8a867d">19</text>
+<text x="102" y="733" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Indiana</text>
+<rect x="592.0" y="723" width="12.3" height="12" rx="1" fill="#1d3b53"/>
+<text x="1020" y="733" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$66,150</text>
+<text x="1126" y="733" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#1d3b53">+1.2%</text>
+<text x="1256" y="733" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">1.006×</text>
+<line x1="64" y1="765" x2="1256" y2="765" stroke="#e8e4da" stroke-width="0.8"/>
+<text x="86" y="757" text-anchor="end" class="mono" font-size="11" fill="#8a867d">20</text>
+<text x="102" y="757" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Ohio</text>
+<rect x="592.0" y="747" width="8.4" height="12" rx="1" fill="#1d3b53"/>
+<text x="1020" y="757" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$65,900</text>
+<text x="1126" y="757" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#1d3b53">+0.8%</text>
+<text x="1256" y="757" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">1.004×</text>
+<text x="86" y="781" text-anchor="end" class="mono" font-size="11" fill="#8a867d">21</text>
+<text x="102" y="781" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Colorado</text>
+<rect x="592.0" y="771" width="8.1" height="12" rx="1" fill="#1d3b53"/>
+<text x="1020" y="781" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$65,880</text>
+<text x="1126" y="781" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#1d3b53">+0.8%</text>
+<text x="1256" y="781" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">1.004×</text>
+<text x="86" y="805" text-anchor="end" class="mono" font-size="11" fill="#8a867d">22</text>
+<text x="102" y="805" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Maryland</text>
+<rect x="589.2" y="795" width="2.8" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="805" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$65,180</text>
+<text x="1126" y="805" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−0.3%</text>
+<text x="1256" y="805" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.999×</text>
+<text x="86" y="829" text-anchor="end" class="mono" font-size="11" fill="#8a867d">23</text>
+<text x="102" y="829" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Michigan</text>
+<rect x="588.4" y="819" width="3.6" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="829" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$65,130</text>
+<text x="1126" y="829" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−0.4%</text>
+<text x="1256" y="829" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.998×</text>
+<text x="86" y="853" text-anchor="end" class="mono" font-size="11" fill="#8a867d">24</text>
+<text x="102" y="853" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">New Hampshire</text>
+<rect x="574.4" y="843" width="17.6" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="853" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$64,230</text>
+<text x="1126" y="853" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−1.7%</text>
+<text x="1256" y="853" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.991×</text>
+<line x1="64" y1="885" x2="1256" y2="885" stroke="#e8e4da" stroke-width="0.8"/>
+<text x="86" y="877" text-anchor="end" class="mono" font-size="11" fill="#8a867d">25</text>
+<text x="102" y="877" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Wyoming</text>
+<rect x="573.9" y="867" width="18.1" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="877" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$64,200</text>
+<text x="1126" y="877" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−1.8%</text>
+<text x="1256" y="877" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.991×</text>
+<text x="86" y="901" text-anchor="end" class="mono" font-size="11" fill="#8a867d">26</text>
+<text x="102" y="901" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Montana</text>
+<rect x="565.8" y="891" width="26.2" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="901" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$63,680</text>
+<text x="1126" y="901" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−2.6%</text>
+<text x="1256" y="901" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.987×</text>
+<text x="86" y="925" text-anchor="end" class="mono" font-size="11" fill="#8a867d">27</text>
+<text x="102" y="925" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Delaware</text>
+<rect x="549.9" y="915" width="42.1" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="925" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$62,660</text>
+<text x="1126" y="925" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−4.1%</text>
+<text x="1256" y="925" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.979×</text>
+<text x="86" y="949" text-anchor="end" class="mono" font-size="11" fill="#8a867d">28</text>
+<text x="102" y="949" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Maine</text>
+<rect x="549.9" y="939" width="42.1" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="949" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$62,660</text>
+<text x="1126" y="949" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−4.1%</text>
+<text x="1256" y="949" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.979×</text>
+<text x="86" y="973" text-anchor="end" class="mono" font-size="11" fill="#8a867d">29</text>
+<text x="102" y="973" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Iowa</text>
+<rect x="540.7" y="963" width="51.3" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="973" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$62,070</text>
+<text x="1126" y="973" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−5.0%</text>
+<text x="1256" y="973" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.975×</text>
+<line x1="64" y1="1005" x2="1256" y2="1005" stroke="#e8e4da" stroke-width="0.8"/>
+<text x="86" y="997" text-anchor="end" class="mono" font-size="11" fill="#8a867d">30</text>
+<text x="102" y="997" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Vermont</text>
+<rect x="540.0" y="987" width="52.0" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="997" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$62,030</text>
+<text x="1126" y="997" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−5.1%</text>
+<text x="1256" y="997" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.975×</text>
+<text x="86" y="1021" text-anchor="end" class="mono" font-size="11" fill="#8a867d">31</text>
+<text x="102" y="1021" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Kansas</text>
+<rect x="509.8" y="1011" width="82.2" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="1021" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$60,090</text>
+<text x="1126" y="1021" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−8.1%</text>
+<text x="1256" y="1021" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.960×</text>
+<text x="86" y="1045" text-anchor="end" class="mono" font-size="11" fill="#8a867d">32</text>
+<text x="102" y="1045" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Arizona</text>
+<rect x="509.0" y="1035" width="83.0" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="1045" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$60,040</text>
+<text x="1126" y="1045" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−8.1%</text>
+<text x="1256" y="1045" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.959×</text>
+<text x="86" y="1069" text-anchor="end" class="mono" font-size="11" fill="#8a867d">33</text>
+<text x="102" y="1069" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">West Virginia</text>
+<rect x="503.0" y="1059" width="89.0" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="1069" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$59,660</text>
+<text x="1126" y="1069" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−8.7%</text>
+<text x="1256" y="1069" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.956×</text>
+<text x="86" y="1093" text-anchor="end" class="mono" font-size="11" fill="#8a867d">34</text>
+<text x="102" y="1093" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Virginia</text>
+<rect x="502.6" y="1083" width="89.4" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="1093" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$59,630</text>
+<text x="1126" y="1093" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−8.8%</text>
+<text x="1256" y="1093" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.956×</text>
+<line x1="64" y1="1125" x2="1256" y2="1125" stroke="#e8e4da" stroke-width="0.8"/>
+<text x="86" y="1117" text-anchor="end" class="mono" font-size="11" fill="#8a867d">35</text>
+<text x="102" y="1117" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Utah</text>
+<rect x="496.0" y="1107" width="96.0" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="1117" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$59,210</text>
+<text x="1126" y="1117" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−9.4%</text>
+<text x="1256" y="1117" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.953×</text>
+<text x="86" y="1141" text-anchor="end" class="mono" font-size="11" fill="#8a867d">36</text>
+<text x="102" y="1141" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Idaho</text>
+<rect x="491.0" y="1131" width="101.0" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="1141" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$58,890</text>
+<text x="1126" y="1141" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−9.9%</text>
+<text x="1256" y="1141" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.951×</text>
+<text x="86" y="1165" text-anchor="end" class="mono" font-size="11" fill="#8a867d">37</text>
+<text x="102" y="1165" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Nebraska</text>
+<rect x="484.0" y="1155" width="108.0" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="1165" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$58,440</text>
+<text x="1126" y="1165" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−10.6%</text>
+<text x="1256" y="1165" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.947×</text>
+<text x="86" y="1189" text-anchor="end" class="mono" font-size="11" fill="#8a867d">38</text>
+<text x="102" y="1189" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Kentucky</text>
+<rect x="474.6" y="1179" width="117.4" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="1189" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$57,840</text>
+<text x="1126" y="1189" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−11.5%</text>
+<text x="1256" y="1189" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.942×</text>
+<text x="86" y="1213" text-anchor="end" class="mono" font-size="11" fill="#8a867d">39</text>
+<text x="102" y="1213" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Tennessee</text>
+<rect x="453.9" y="1203" width="138.1" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="1213" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$56,510</text>
+<text x="1126" y="1213" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−13.5%</text>
+<text x="1256" y="1213" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.932×</text>
+<line x1="64" y1="1245" x2="1256" y2="1245" stroke="#e8e4da" stroke-width="0.8"/>
+<text x="86" y="1237" text-anchor="end" class="mono" font-size="11" fill="#8a867d">40</text>
+<text x="102" y="1237" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Georgia</text>
+<rect x="452.2" y="1227" width="139.8" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="1237" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$56,400</text>
+<text x="1126" y="1237" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−13.7%</text>
+<text x="1256" y="1237" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.931×</text>
+<text x="86" y="1261" text-anchor="end" class="mono" font-size="11" fill="#8a867d">41</text>
+<text x="102" y="1261" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">New Mexico</text>
+<rect x="449.7" y="1251" width="142.3" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="1261" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$56,240</text>
+<text x="1126" y="1261" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−14.0%</text>
+<text x="1256" y="1261" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.930×</text>
+<rect x="64" y="1269" width="1192" height="24" fill="#f2f0e8" opacity="0.85"/>
+<text x="86" y="1285" text-anchor="end" class="mono" font-size="11" fill="#191918">42</text>
+<text x="102" y="1285" class="sans" font-size="12.5" font-weight="700" fill="#191918">Florida</text>
+<rect x="439.2" y="1275" width="152.8" height="12" rx="1" fill="#7c4e35"/>
+<text x="1020" y="1285" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#191918">$55,570</text>
+<text x="1126" y="1285" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#7c4e35">−15.0%</text>
+<text x="1256" y="1285" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#191918">0.925×</text>
+<text x="86" y="1309" text-anchor="end" class="mono" font-size="11" fill="#8a867d">43</text>
+<text x="102" y="1309" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">South Carolina</text>
+<rect x="436.7" y="1299" width="155.3" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="1309" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$55,410</text>
+<text x="1126" y="1309" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−15.2%</text>
+<text x="1256" y="1309" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.924×</text>
+<rect x="64" y="1317" width="1192" height="24" fill="#f2f0e8" opacity="0.85"/>
+<text x="86" y="1333" text-anchor="end" class="mono" font-size="11" fill="#191918">44</text>
+<text x="102" y="1333" class="sans" font-size="12.5" font-weight="700" fill="#191918">Texas</text>
+<rect x="433.4" y="1323" width="158.6" height="12" rx="1" fill="#7c4e35"/>
+<text x="1020" y="1333" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#191918">$55,200</text>
+<text x="1126" y="1333" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#7c4e35">−15.5%</text>
+<text x="1256" y="1333" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#191918">0.922×</text>
+<line x1="64" y1="1365" x2="1256" y2="1365" stroke="#e8e4da" stroke-width="0.8"/>
+<text x="86" y="1357" text-anchor="end" class="mono" font-size="11" fill="#8a867d">45</text>
+<text x="102" y="1357" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Oklahoma</text>
+<rect x="432.2" y="1347" width="159.8" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="1357" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$55,120</text>
+<text x="1126" y="1357" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−15.7%</text>
+<text x="1256" y="1357" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.922×</text>
+<text x="86" y="1381" text-anchor="end" class="mono" font-size="11" fill="#8a867d">46</text>
+<text x="102" y="1381" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Louisiana</text>
+<rect x="429.4" y="1371" width="162.6" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="1381" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$54,940</text>
+<text x="1126" y="1381" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−15.9%</text>
+<text x="1256" y="1381" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.920×</text>
+<text x="86" y="1405" text-anchor="end" class="mono" font-size="11" fill="#8a867d">47</text>
+<text x="102" y="1405" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">North Carolina</text>
+<rect x="429.4" y="1395" width="162.6" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="1405" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$54,940</text>
+<text x="1126" y="1405" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−15.9%</text>
+<text x="1256" y="1405" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.920×</text>
+<text x="86" y="1429" text-anchor="end" class="mono" font-size="11" fill="#8a867d">48</text>
+<text x="102" y="1429" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">South Dakota</text>
+<rect x="429.2" y="1419" width="162.8" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="1429" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$54,930</text>
+<text x="1126" y="1429" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−16.0%</text>
+<text x="1256" y="1429" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.920×</text>
+<text x="86" y="1453" text-anchor="end" class="mono" font-size="11" fill="#8a867d">49</text>
+<text x="102" y="1453" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Alabama</text>
+<rect x="377.7" y="1443" width="214.3" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="1453" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$51,630</text>
+<text x="1126" y="1453" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−21.0%</text>
+<text x="1256" y="1453" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.895×</text>
+<line x1="64" y1="1485" x2="1256" y2="1485" stroke="#e8e4da" stroke-width="0.8"/>
+<text x="86" y="1477" text-anchor="end" class="mono" font-size="11" fill="#8a867d">50</text>
+<text x="102" y="1477" class="sans" font-size="12.5" font-weight="500" fill="#302f2c">Mississippi</text>
+<rect x="371.0" y="1467" width="221.0" height="12" rx="1" fill="#9e6b4f"/>
+<text x="1020" y="1477" text-anchor="end" class="mono" font-size="12" font-weight="400" fill="#302f2c">$51,200</text>
+<text x="1126" y="1477" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#7c4e35">−21.7%</text>
+<text x="1256" y="1477" text-anchor="end" class="mono" font-size="12" font-weight="500" fill="#5c5a54">0.892×</text>
+<rect x="64" y="1485" width="1192" height="24" fill="#f2f0e8" opacity="0.85"/>
+<text x="86" y="1501" text-anchor="end" class="mono" font-size="11" fill="#191918">51</text>
+<text x="102" y="1501" class="sans" font-size="12.5" font-weight="700" fill="#191918">Arkansas</text>
+<rect x="331.2" y="1491" width="260.8" height="12" rx="1" fill="#7c4e35"/>
+<text x="1020" y="1501" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#191918">$48,650</text>
+<text x="1126" y="1501" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#7c4e35">−25.6%</text>
+<text x="1256" y="1501" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#191918">0.872×</text>
+<line x1="592" y1="282" x2="592" y2="1514" stroke="#191918" stroke-width="1.5"/>
+<rect x="286" y="342" width="286" height="134" fill="#faf9f5" stroke="#d8d4c8" stroke-width="1"/>
+<rect x="286" y="342" width="3.5" height="134" fill="#1d3b53"/>
+<text x="301" y="365" class="sans" font-size="10.2" font-weight="700" letter-spacing="0.9" fill="#1d3b53">ABOVE U.S. MEAN (21 JURISDICTIONS)</text>
+<text x="301" y="385" class="serif" font-size="13.5" font-weight="700" fill="#191918">High-Wage Coastal &amp; Union Hubs</text>
+<text x="301" y="405" class="sans" font-size="11.5" fill="#5c5a54">The top 7 states — HI, WA, IL, MA, AK,</text>
+<text x="301" y="422" class="sans" font-size="11.5" fill="#5c5a54">NJ, and CA — all average above $78k/yr</text>
+<text x="301" y="439" class="sans" font-size="11.5" fill="#5c5a54">(+20% to +29% over baseline), lifting</text>
+<text x="301" y="456" class="sans" font-size="11.5" fill="#5c5a54">remodel labor multipliers to 1.10×–1.14×.</text>
+<rect x="612" y="1004" width="286" height="150" fill="#faf9f5" stroke="#d8d4c8" stroke-width="1"/>
+<rect x="612" y="1004" width="3.5" height="150" fill="#9e6b4f"/>
+<text x="627" y="1027" class="sans" font-size="10.2" font-weight="700" letter-spacing="0.9" fill="#7c4e35">BELOW U.S. MEAN (30 STATES)</text>
+<text x="627" y="1047" class="serif" font-size="13.5" font-weight="700" fill="#191918">Sun Belt Hubs Sit ~15% Below Mean</text>
+<text x="627" y="1067" class="sans" font-size="11.5" fill="#5c5a54">High-volume remodeling markets like</text>
+<text x="627" y="1084" class="sans" font-size="11.5" fill="#5c5a54">Florida ($55,570), Texas ($55,200), and</text>
+<text x="627" y="1101" class="sans" font-size="11.5" fill="#5c5a54">North Carolina ($54,940) cluster near</text>
+<text x="627" y="1118" class="sans" font-size="11.5" fill="#5c5a54">−15% to −16% vs. U.S. mean, while AR,</text>
+<text x="627" y="1135" class="sans" font-size="11.5" fill="#5c5a54">MS, and AL sit 21%–26% below baseline.</text>
+<rect x="612" y="1178" width="286" height="188" fill="#f2f0e8" stroke="#d8d4c8" stroke-width="1"/>
+<text x="627" y="1202" class="sans" font-size="10.2" font-weight="700" letter-spacing="0.9" fill="#191918">EXAMPLE: $30,000 BASELINE REMODEL</text>
+<text x="627" y="1220" class="sans" font-size="11.2" fill="#5c5a54">50%-labor sensitivity planning estimate:</text>
+<line x1="627" y1="1231" x2="883" y2="1231" stroke="#d8d4c8" stroke-width="1"/>
+<text x="627" y="1250" class="sans" font-size="11.5" font-weight="500" fill="#191918">Hawaii (1.144×)</text>
+<text x="883" y="1250" text-anchor="end" class="mono" font-size="11.5" font-weight="700" fill="#1d3b53">$34,320</text>
+<text x="627" y="1267.5" class="sans" font-size="11.5" font-weight="500" fill="#191918">California (1.099×)</text>
+<text x="883" y="1267.5" text-anchor="end" class="mono" font-size="11.5" font-weight="700" fill="#1d3b53">$32,970</text>
+<text x="627" y="1285" class="sans" font-size="11.5" font-weight="500" fill="#191918">New York (1.086×)</text>
+<text x="883" y="1285" text-anchor="end" class="mono" font-size="11.5" font-weight="700" fill="#1d3b53">$32,580</text>
+<text x="627" y="1302.5" class="sans" font-size="11.5" font-weight="700" fill="#191918">U.S. Baseline (1.000×)</text>
+<text x="883" y="1302.5" text-anchor="end" class="mono" font-size="11.5" font-weight="700" fill="#191918">$30,000</text>
+<text x="627" y="1320" class="sans" font-size="11.5" font-weight="500" fill="#191918">Florida (0.925×)</text>
+<text x="883" y="1320" text-anchor="end" class="mono" font-size="11.5" font-weight="700" fill="#7c4e35">$27,750</text>
+<text x="627" y="1337.5" class="sans" font-size="11.5" font-weight="500" fill="#191918">Texas (0.922×)</text>
+<text x="883" y="1337.5" text-anchor="end" class="mono" font-size="11.5" font-weight="700" fill="#7c4e35">$27,660</text>
+<text x="627" y="1355" class="sans" font-size="11.5" font-weight="500" fill="#191918">Arkansas (0.872×)</text>
+<text x="883" y="1355" text-anchor="end" class="mono" font-size="11.5" font-weight="700" fill="#7c4e35">$26,160</text>
+<line x1="64" y1="1520" x2="1256" y2="1520" stroke="#191918" stroke-width="1.2"/>
+<rect x="64" y="1533" width="12" height="10" rx="1" fill="#1d3b53"/>
+<text x="82" y="1542" class="sans" font-size="11.5" fill="#5c5a54">Above U.S. mean ($65,360)</text>
+<rect x="256" y="1533" width="12" height="10" rx="1" fill="#9e6b4f"/>
+<text x="274" y="1542" class="sans" font-size="11.5" fill="#5c5a54">Below U.S. mean ($65,360)</text>
+<text x="1256" y="1542" text-anchor="end" class="sans" font-size="11.5" fill="#8a867d">Remodel Factor = 0.50 + 0.50 × (State Mean Wage / $65,360) · Excludes permits, sales tax &amp; regional code premiums</text>
+<line x1="64" y1="1594" x2="1256" y2="1594" stroke="#d8d4c8" stroke-width="1"/>
+<g transform="translate(64, 1614) scale(1.25)">
+  <rect x="1.5" y="2" width="19.5" height="6.5" fill="none" stroke="#3c3b37" stroke-width="1.15"/>
+  <rect x="4" y="11.5" width="6.5" height="14" fill="none" stroke="#3c3b37" stroke-width="1.15"/>
+  <rect x="14" y="11.5" width="12.5" height="12.5" fill="#1d3b53"/>
+</g>
+<text x="110" y="1631" class="serif" font-size="17" font-weight="700" fill="#191918">My Remodel Cost</text>
+<text x="110" y="1649" class="mono" font-size="11.5" fill="#1d3b53">myremodelcost.com/home-renovation-cost-by-state/</text>
+<text x="1256" y="1629" text-anchor="end" class="sans" font-size="11.5" fill="#5c5a54">Source: U.S. Bureau of Labor Statistics, OEWS May 2025 (Construction &amp; Extraction, SOC 47-0000).</text>
+<text x="1256" y="1648" text-anchor="end" class="sans" font-size="11.5" fill="#8a867d">Open CSV &amp; JSON dataset (CC BY 4.0): myremodelcost.com/sources/ · Updated November 2026</text>
+</svg>
