@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "US Residential Remodeling Cost Benchmarks & State Construction Labor Index (2026)"
+message: "If you use this dataset or state labor index in research, reporting, or tools, please cite it using the metadata below."
+type: dataset
+authors:
+  - name: "My Remodel Cost Editorial Team"
+    website: "https://myremodelcost.com/"
+    email: "editor@myremodelcost.com"
+url: "https://myremodelcost.com/sources/"
+abstract: "Open, reproducible US residential remodeling cost benchmarks (2026) and May 2025 BLS OEWS Construction & Extraction (SOC 47-0000) state labor wage ratios and 50%-labor sensitivity factors across all 50 US states and the District of Columbia."
+keywords:
+  - remodeling costs
+  - home renovation
+  - construction wages
+  - BLS OEWS
+  - housing economics
+  - open data
+license: CC-BY-4.0
+version: "2026.11"
+date-released: "2026-11-27"
