@@ -1,6 +1,6 @@
 # US Residential Remodeling Cost Benchmarks & State Construction Labor Index (2026)
 
-[![DOI](https://zenodo.org/badge/github/1474458285.svg)](https://doi.org/10.5281/zenodo.24590261) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-1d3b53.svg)](LICENSE) [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Open_Dataset-20BEFF.svg)](https://www.kaggle.com/datasets/andrewll25/us-remodeling-cost-benchmarks-and-labor-index-2026)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24590261-1d3b53.svg)](https://doi.org/10.5281/zenodo.24590261) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-1d3b53.svg)](LICENSE) [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Open_Dataset-20BEFF.svg)](https://www.kaggle.com/datasets/andrewll25/us-remodeling-cost-benchmarks-and-labor-index-2026)
 
 Open, reproducible datasets published by **[My Remodel Cost](https://myremodelcost.com/)** for researchers, journalists, housing analysts, and homeowners. Also archived on **[Zenodo (`10.5281/zenodo.24590261`)](https://doi.org/10.5281/zenodo.24590261)** and mirrored on **[Kaggle](https://www.kaggle.com/datasets/andrewll25/us-remodeling-cost-benchmarks-and-labor-index-2026)**.
 
